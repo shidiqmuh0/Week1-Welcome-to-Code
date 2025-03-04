@@ -6,7 +6,7 @@
     1. buat dua variabel untuk menyimpan nilai x dan o
     2. buat loop for of untuk memecahnya menjadi pecahan str
     3. buat pengkondisian untuk menentukan jumlah dari x dan o
-    4. bandingkan stringx dan stringo
+    4. bandingkan stringx dan stringo   
 */
 
 function xo(str) {
